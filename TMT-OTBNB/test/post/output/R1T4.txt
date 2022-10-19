@@ -1,0 +1,4 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter City Name: Enter rental price (0-999.99): Enter number of rooms (0-9): Unit posted by user: user02
+Enter transaction: You have been logged out
+Enter transaction: 

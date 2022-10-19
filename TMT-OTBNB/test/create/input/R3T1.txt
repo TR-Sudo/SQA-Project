@@ -1,0 +1,8 @@
+Login
+AdminUser
+Create
+username11210101
+username11
+AA
+Logout
+quit

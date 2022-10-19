@@ -1,0 +1,5 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter username: You cannot delete another admin from the front end
+Enter username: Deleted user username05
+Enter transaction: You have been logged out
+Enter transaction: 

@@ -1,0 +1,9 @@
+login
+user01
+rent
+a0b1c3d4
+15
+1
+no
+logout
+quit

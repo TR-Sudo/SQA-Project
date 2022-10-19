@@ -1,0 +1,9 @@
+login
+user01
+post
+xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Oshawa
+110
+5
+logout
+quit

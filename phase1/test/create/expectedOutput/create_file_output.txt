@@ -1,0 +1,38 @@
+User Accounts File
+
+R1T1:
+username11  AA
+
+R2T1:
+username11  AA
+
+R3T1:
+username11  AA
+
+R4T1:
+username11  AA
+
+R5T1:
+username11  AA
+
+Daily Transactions File
+
+R1T1:
+01 username05      AA                                    0 000000 00
+00 username05      AA                                    0 000000 00
+
+R2T1:
+01 username05      AA                                    0 000000 00
+00 username05      AA                                    0 000000 00
+
+R3T1:
+01 username05      AA                                    0 000000 00
+00 username05      AA                                    0 000000 00
+
+R4T1:
+01 username05      AA                                    0 000000 00
+00 username05      AA                                    0 000000 00
+
+R5T1:
+01 username05      AA                                    0 000000 00
+00 username05      AA                                    0 000000 00

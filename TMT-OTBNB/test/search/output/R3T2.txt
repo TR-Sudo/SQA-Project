@@ -1,0 +1,14 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter city: Enter rental price (0-999.99): Enter number of rooms (0-9): Error: Number of rooms must be between 0 and 9
+Enter number of rooms (0-9): 
+Search Results:
+
+Rental ID: aaaabbb2
+City: Oshawa
+Number of bedrooms: 5
+Rental price per night: 20.0
+
+End of search results
+
+Enter transaction: You have been logged out
+Enter transaction: 

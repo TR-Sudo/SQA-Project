@@ -1,0 +1,9 @@
+login
+user01
+post
+Oshawa
+-1
+110
+5
+logout
+quit

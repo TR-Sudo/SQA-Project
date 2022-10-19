@@ -1,0 +1,26 @@
+R3T1:
+Transaction:
+Enter username:
+Error: Username entered contains invalid characters.
+Enter username:
+
+R4T1:
+Transaction:
+Enter username:
+Error: Username entered is not valid.
+Enter username:
+Logged in as username01 AA.
+
+R5T1:
+Transaction:
+Enter username:
+Error: Username does not exist.
+Enter username:
+Logged in as username01 AA.
+
+R7T1:
+Transaction:
+Enter username:
+Logged in as username01 AA.
+Transaction:
+Error: username01 is already logged in.

@@ -1,0 +1,4 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: User can not be post standard
+Enter transaction: You have been logged out
+Enter transaction: 

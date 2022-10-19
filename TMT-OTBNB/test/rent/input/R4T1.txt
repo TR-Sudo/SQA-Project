@@ -1,0 +1,9 @@
+login
+admin02
+rent
+a0b1c3d4
+a0a0a0a0
+1
+yes
+logout
+quit

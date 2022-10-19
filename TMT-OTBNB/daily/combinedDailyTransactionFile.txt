@@ -1,0 +1,9 @@
+02 user01          FS                                    0 000000 00
+00 AdminUser       AA                                    0 000000 00
+00 user01          FS                                    0 000000 00
+01 username11      AA                                    0 000000 00
+00 AdminUser       AA                                    0 000000 00
+05 admin02         AA a0a0a0a0 Oshawa                    5 110.00 01
+00 admin02         AA                                    0 000000 00
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00

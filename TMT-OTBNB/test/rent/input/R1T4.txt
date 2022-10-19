@@ -1,0 +1,5 @@
+login
+PS_user01
+rent
+logout
+quit

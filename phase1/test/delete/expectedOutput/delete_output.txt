@@ -1,0 +1,83 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to delete the user.
+Enter the username:
+User has been removed, their account details including rental information have been removed.
+Transaction:
+You have been logged out.
+
+R1T2:
+Transaction:
+Enter username:
+Logged in as fs_username FS.
+Transaction:
+Error: Only users with admin accounts can delete accounts.
+
+R1T3:
+Transaction:
+Enter username:
+Logged in as rs_username RS.
+Transaction:
+Error: Only users with admin accounts can delete accounts.
+
+R1T4:
+Transaction:
+Enter username:
+Logged in as ps_username PS.
+Transaction:
+Error: Only users with admin accounts can delete accounts.
+
+R2T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to delete the user.
+Enter the username:
+Error: Username must be a valid username.
+Enter the username:
+User has been removed, their account details including rental information have been removed.
+Transaction:
+You have been logged out.
+
+R3T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to delete the user.
+Enter the username:
+Error: Username cannot be current username that is logged in.
+Enter the username:
+User has been removed, their account details including rental information have been removed.
+Transaction:
+You have been logged out.
+
+R4T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to delete the user.
+Enter the username:
+Error: Username does not exist.
+Enter the username:
+User has been removed, their account details including rental information have been removed.
+Transaction:
+You have been logged out.
+
+R5T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to delete the user.
+Enter the username:
+Error: Username cannot be an admin user. Admin users cannot be deleted.
+Enter the username:
+User has been removed, their account details including rental information have been removed.
+Transaction:
+You have been logged out.

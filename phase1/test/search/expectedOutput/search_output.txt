@@ -1,0 +1,123 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Error: City is invalid.
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R1T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R2T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Rental price invalid, must be [0-999.99] please re-enter.
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R2T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Rental price invalid, must be [0-999.99] please re-enter.
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R2T3:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Rental price invalid, must be [0-999.99] please re-enter.
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R2T4:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R3T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Number of rooms invalid, must be [0-9] please re-enter.
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R3T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Number of rooms invalid, must be [0-9] please re-enter.
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R3T3:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Number of rooms invalid, must be [0-9] please re-enter.
+Enter number of rooms:
+Transaction:
+You have been logged out.
+
+R3T4:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter city:
+Enter rental price:
+Enter number of rooms:
+Transaction:
+You have been logged out.

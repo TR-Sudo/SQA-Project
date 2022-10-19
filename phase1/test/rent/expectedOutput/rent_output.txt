@@ -1,0 +1,143 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as admin01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R1T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R1T3:
+Transaction:
+Enter username:
+Logged in as RS_user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R1T4:
+Transaction:
+Enter username:
+Logged in as PS_user01.
+Transaction:
+Error: You do not have permission to rent.
+Transaction:
+You have been logged out.
+
+R2T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Error: Rental ID does not exist.
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R3T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Error: Rental ID already taken.
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R4T1:
+Transaction:
+Enter username:
+Logged in as admin01.
+Transaction:
+Enter rental ID:
+Error: Cannot book rental for unit you yourself posted.
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R5T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Error: Number of nights must be [1-14].
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R5T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Error: Number of nights must be [1-14].
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R5T3:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Error: Number of nights must be [1-14].
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R7T1:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Error: Expecting (Yes/No).
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.
+
+R7T2:
+Transaction:
+Enter username:
+Logged in as user01.
+Transaction:
+Enter rental ID:
+Enter number of nights:
+Confirm rental (Yes/No):
+Transaction:
+You have been logged out.

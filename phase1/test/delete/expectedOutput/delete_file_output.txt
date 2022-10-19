@@ -1,0 +1,21 @@
+Daily Transaction File
+
+R1T1:
+02 username05          AA                                    0 000000 00
+00 username05          AA                                    0 000000 00
+
+R2T1:
+02 username05          AA                                    0 000000 00
+00 username05          AA                                    0 000000 00
+
+R3T1:
+02 username05          AA                                    0 000000 00
+00 username05          AA                                    0 000000 00
+
+R4T1:
+02 username05          AA                                    0 000000 00
+00 username05          AA                                    0 000000 00
+
+R5T1:
+02 username05          AA                                    0 000000 00
+00 username05          AA                                    0 000000 00

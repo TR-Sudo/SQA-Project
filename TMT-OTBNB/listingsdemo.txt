@@ -1,0 +1,11 @@
+aaaabbbc username05      Toronto                   5 110.00 T 00
+aaaabbb8 username05      Toronto                   5 020.00 T 00
+a0b0c0d7 username05      Toronto                   5 110.00 T 00
+a0b0c0d5 username05      Toronto                   5 110.00 T 00
+a0b0c0d0 username05      Oshawa                    5 110.00 F 00
+a0b0c0d2 username05      Oshawa                    5 110.00 F 00
+a0b0c0d3 username05      Oshawa                    5 110.00 T 00
+a0b1c3d4 admin02         Oshawa                    5 110.00 F 00
+aaaabbbb username05      Oshawa                    5 110.00 T 00
+a0a0a0a0 username05      Oshawa                    5 110.00 F 00
+aaaabbb2 username05      Oshawa                    5 020.00 F 00

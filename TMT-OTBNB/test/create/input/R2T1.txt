@@ -1,0 +1,8 @@
+Login
+AdminUser
+Create
+@username
+username11
+AA
+Logout
+quit

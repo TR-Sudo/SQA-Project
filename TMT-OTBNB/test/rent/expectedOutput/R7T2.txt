@@ -1,0 +1,5 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter Rental ID: Enter number of nights: Error: Enter valid range [1-14]
+Enter number of nights: Confirm rental (Yes/No): Rental not booked
+Enter transaction: You have been logged out
+Enter transaction: 

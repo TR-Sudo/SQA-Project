@@ -1,0 +1,4 @@
+Enter transaction: Enter username: Invalid username: username must be less than 15 characters and can only contain A-z, numbers, - and _
+Enter username: You have been logged in
+Enter transaction: You have been logged out
+Enter transaction: 

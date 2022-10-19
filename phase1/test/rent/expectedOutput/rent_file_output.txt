@@ -1,0 +1,47 @@
+Daily Transaction File
+
+R1T1.
+05 admin01         AA a0b1c3d4 Oshawa                    5 025.00 01
+00 admin01         FS                                    0 000000 00
+
+R1T2.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R1T3.
+05 RS_user01       RS a0b1c3d4 Oshawa                    5 025.00 01
+00 RS_user01       RS                                    0 000000 00
+
+R1T4.
+00 PS_user01       PS                                    0 000000 00
+
+R2T1.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R3T1.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R4T1.
+05 admin01         FS a0a0a0a0 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R5T1.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R5T2.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R5T3.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R7T1.
+05 user01          FS a0b1c3d4 Oshawa                    5 025.00 01
+00 user01          FS                                    0 000000 00
+
+R7T2.
+00 user01          FS                                    0 000000 00

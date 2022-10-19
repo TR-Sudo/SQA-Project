@@ -1,0 +1,2 @@
+Enter transaction: Cannot delete unless logged in
+Enter transaction: 

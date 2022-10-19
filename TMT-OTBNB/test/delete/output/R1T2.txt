@@ -1,0 +1,4 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Error: Only admin users can delete an account
+Enter transaction: You have been logged out
+Enter transaction: 

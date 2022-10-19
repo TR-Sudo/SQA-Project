@@ -1,0 +1,9 @@
+login
+user01
+search
+Oshawa89
+Oshawa
+25
+5
+logout
+quit

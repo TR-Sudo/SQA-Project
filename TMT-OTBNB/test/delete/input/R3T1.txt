@@ -1,0 +1,7 @@
+Login
+AdminUser
+Delete
+AdminUser
+username05
+Logout
+quit

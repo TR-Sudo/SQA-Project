@@ -1,0 +1,41 @@
+Daily Transaction File
+
+R1T1.
+04 user01          FS          Oshawa                    5 025.00 00
+00 user01          FS                                    0 000000 00
+
+R1T2.
+04 user01          FS          *                         5 025.00 00
+00 user01          FS                                    0 000000 00
+
+R2T1.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R2T2.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R2T3.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R2T4.
+04 user01          FS          Oshawa                    5 00000* 00
+00 user01          FS                                    0 000000 00
+
+R3T1.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R3T2.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R3T3.
+04 user01          FS          Oshawa                    5 020.00 00
+00 user01          FS                                    0 000000 00
+
+R3T4.
+04 user01          FS          Oshawa                    * 020.00 00
+00 user01          FS                                    0 000000 00

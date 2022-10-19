@@ -1,0 +1,165 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R1T2:
+Transaction:
+Enter username:
+Logged in as fs_username FS.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R1T3:
+Transaction:
+Enter username:
+Logged in as rs_username RS.
+Transaction:
+Error: Posting is only allowed for users with admin, full-standard or post-standard accounts.
+
+R1T4:
+Transaction:
+Enter username:
+Logged in as ps_username PS.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R2T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Error: City entered must be a valid name.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R3T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Error: City name must be less than 25 characters.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R4T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Error: Rental price entered must be a valid number.
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R5T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Error: Rental price entered cannot be negative or zero.
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R5T2:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Error: Rental price entered must be less than $999.99. Only rental units with a maximum cost per night of $999.99 is allowed.
+Enter rental price:
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R6T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Error: Number of rooms entered must be a valid number.
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R7T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Error: Number of rooms entered cannot be a negative value.
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.
+
+R7T2:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to post your rental unit.
+Enter city name:
+Enter rental price:
+Enter number of rooms:
+Error: Number of rooms entered must be less than 9. Only rental units with a maximum of 9 rooms can be posted.
+Enter number of rooms:
+Rental unit has been posted.
+Transaction:
+You have been logged out.

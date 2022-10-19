@@ -1,0 +1,36 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as username AA.
+Transaction:
+You have been logged out.
+
+R3T1:
+You have been logged out.
+Transaction:
+Error: No current session, please log in.
+
+R3T2:
+You have been logged out.
+Transaction:
+Error: No current session, please log in to make transactions.
+
+R3T3:
+You have been logged out.
+Transaction:
+Error: No current session, please log in to make transactions.
+
+R3T4:
+You have been logged out.
+Transaction:
+Error: No current session, please log in to make transactions.
+
+R3T5:
+You have been logged out.
+Transaction:
+Error: No current session, please log in to make transactions.
+
+R3T6:
+You have been logged out.
+Transaction:
+Error: No current session, please log in to make transactions.

@@ -1,0 +1,5 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter Rental ID: No Results Found
+Enter Rental ID: Enter number of nights: Confirm rental (Yes/No): Rental: a0b1c3d4 booked for 1 nights
+Enter transaction: You have been logged out
+Enter transaction: 

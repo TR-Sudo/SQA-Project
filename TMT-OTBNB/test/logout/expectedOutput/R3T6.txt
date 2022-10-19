@@ -1,0 +1,2 @@
+Enter transaction: Must be logged in to rent
+Enter transaction: 

@@ -1,0 +1,88 @@
+R1T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to create a user account.
+Enter the username:
+Choose the account type: Admin, Rent-Standard, Post-Standard
+User account has been created.
+Transaction:
+You have been logged out.
+
+R1T2:
+Transaction:
+Enter username:
+Logged in as fs_username FS.
+Transaction:
+Error: Only users with admin accounts can create accounts.
+
+R1T3:
+Transaction:
+Enter username:
+Logged in as rs_username RS.
+Transaction:
+Error: Only users with admin accounts can create accounts.
+
+R1T4:
+Transaction:
+Enter username:
+Logged in as ps_username PS.
+Transaction:
+Error: Only users with admin accounts can create accounts.
+
+R2T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to create a user account.
+Enter the username:
+Error: Username entered is not valid.
+Enter the username:
+Choose the account type: Admin, Rent-Standard, Post-Standard
+User account has been created.
+Transaction:
+You have been logged out.
+
+R3T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to create a user account.
+Enter the username:
+Error: Username must be less than 15 characters.
+Enter the username:
+Choose the account type: Admin, Rent-Standard, Post-Standard
+User account has been created.
+Transaction:
+You have been logged out.
+
+R4T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to create a user account.
+Enter the username:
+Error: Username already exists.
+Enter the username:
+Choose the account type: Admin, Rent-Standard, Post-Standard
+User account has been created.
+Transaction:
+You have been logged out.
+
+R5T1:
+Transaction:
+Enter username:
+Logged in as username05 AA.
+Transaction:
+Fill in the information below to create a user account.
+Enter the username:
+Choose the account type: Admin, Rent-Standard, Post-Standard
+Error: Please choose a valid account type.
+Choose the account type: Admin, Rent-Standard, Post-Standard
+User account has been created.
+Transaction:
+You have been logged out.

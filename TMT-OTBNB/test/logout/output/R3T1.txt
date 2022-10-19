@@ -1,0 +1,2 @@
+Enter transaction: Error: You must be logged in to log out
+Enter transaction: 

@@ -1,0 +1,5 @@
+Enter transaction: Enter username: You have been logged in
+Enter transaction: Enter Rental ID: Error: User can not rent their own unit
+Enter Rental ID: Enter number of nights: Confirm rental (Yes/No): Rental: a0a0a0a0 booked for 1 nights
+Enter transaction: You have been logged out
+Enter transaction: 

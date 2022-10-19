@@ -1,0 +1,81 @@
+Available Rentals File
+
+R1T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R1T2:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R1T4:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R2T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R3T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R4T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R5T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R5T2:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R6T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R7T1:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+R7T2:
+rentalID username05      Oshawa                    5 110.00 F 00
+
+
+Daily Transactions File
+
+R1T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R1T2:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R1T4:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R2T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R3T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R4T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R5T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R5T2:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R6T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R7T1:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00
+
+R7T2:
+03 username05      AA          Oshawa                    5 110.00 00
+00 username05      AA                                    0 000000 00

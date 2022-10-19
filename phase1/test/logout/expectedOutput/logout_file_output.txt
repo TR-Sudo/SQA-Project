@@ -1,0 +1,4 @@
+Daily Transaction File
+
+R1T1:
+00 username        AA                                    0 000000 00

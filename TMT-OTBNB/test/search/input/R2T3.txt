@@ -1,0 +1,9 @@
+login
+user01
+search
+Oshawa
+1000
+20
+5
+logout
+quit

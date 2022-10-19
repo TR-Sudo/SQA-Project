@@ -1,0 +1,2 @@
+Enter transaction: Cannot search unless logged in
+Enter transaction: 

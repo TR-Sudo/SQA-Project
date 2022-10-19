@@ -1,0 +1,14 @@
+PS_user105      PS
+admin01         AA
+usern           AA
+PS_user34       PS
+username05      RS
+admin02         AA
+FS_user25       FS
+user02          PS
+AdminUser55     AA
+RS_user99       RS
+RS_user01       RS
+PS_user01       PS
+AdminUser       AA
+user01          FS

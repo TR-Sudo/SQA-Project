@@ -1,0 +1,2 @@
+02 username05      RS                                    0 000000 00
+00 AdminUser       AA                                    0 000000 00
