@@ -1,4 +1,4 @@
-# CSCI3060-Project
+# SQA-Project
 
 ## Front-End
 ```Bash
