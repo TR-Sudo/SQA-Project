@@ -1,5 +1,7 @@
 # SQA-Project
 
+Software quality assurance project that utilizes the AGILE methodology for its planning and execution. The project involved a planning and testing phase, during which thorough documentation and a comprehensive set of tests were created. During the development phase, the project team held weekly progress meetings and utilized pair programming to ensure smooth and efficient completion of the project. The team modified the program to pass all of the test cases that were proposed during the planning phase. Additional test cases were added in order to meet changing requirements from the instructor, overall increasing the functionality of the program. The project also involved the use of shell scripting to run automated tests, simulating weekly and daily user inputs
+
 ## Front-End
 ```Bash
 Steps to run front-end:
